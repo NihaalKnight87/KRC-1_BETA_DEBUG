@@ -2,5 +2,6 @@
 
 <php
 
+echo("nihaal");
 
 ?>
