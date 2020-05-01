@@ -1,1 +1,1 @@
-1;SalaamMarketingAdverting.png;8500;4000,Appid;Appname;ESTPrice;Discount
+1;SalaamMarketingAdverting;SalaamMarketingAdverting.png;8500;4000,Appid;Appimage;Appname;ESTPrice;Discount
