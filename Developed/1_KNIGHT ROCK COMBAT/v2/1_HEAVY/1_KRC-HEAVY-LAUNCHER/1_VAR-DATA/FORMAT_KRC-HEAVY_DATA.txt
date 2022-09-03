@@ -1,0 +1,10 @@
+TRUE|x.xx.x|1:2
+{
+	UPDATE ENABLE 	: TRUE
+	VERSION 		: x.xx.x
+	PACKAGE COUNT 	: 1:2
+	{
+		PACKAGE COUNT/32BIT : 1
+		PACKAGE COUNT/64BIT : 2
+	}
+}
