@@ -2,4 +2,4 @@ https://vistas.ac.in/~
 https://erp.velsuniv.ac.in/examresults/online/report/onlineResult.jsp~
 https://erp.velsuniv.ac.in/velsonline/students/loginManager/youLogin.jsp~
 https://www.library.velsuniv.ac.in/new-page-cz1z~
-https://erp.velsuniv.ac.in/velsonline/online/feePaymentEquitas.jsp
+https://erp.velsuniv.ac.in/velsonline/online/velsfeepayment.jsp
